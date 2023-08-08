@@ -4,13 +4,11 @@
 #include <stdlib.h>
 
 /**
- * dhass all files
- * @integers are strong
- * @private file
+ * struct listint_s - singly linked list
+ * @n: integer
+ * @next: points to the next node
  *
  * Description: singly linked list node structure
- * Very structured code
- * Programmed by Me
  * 
  */
 typedef struct listint_s
