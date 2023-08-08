@@ -9,8 +9,6 @@
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- * Very structured code
- * Programmed by Me
  * 
  */
 typedef struct listint_s
