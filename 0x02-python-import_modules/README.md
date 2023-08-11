@@ -1,1 +1,1 @@
-second program python
+# Solutions to tasks on modules
