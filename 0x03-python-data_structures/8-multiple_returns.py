@@ -6,3 +6,4 @@ def multiple_returns(sentence):
     else:
         first_char = None
     return (len(sentence), first_char)
+# This is a single-line comment in Python
