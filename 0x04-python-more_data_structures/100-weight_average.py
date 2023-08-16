@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# 100th task
 def weight_average(my_list=[]):
     if my_list and len(my_list):
         num = 0
@@ -8,4 +9,3 @@ def weight_average(my_list=[]):
             denom += (tup[1])
         return (num/denom)
     return 0
-# 100th task
