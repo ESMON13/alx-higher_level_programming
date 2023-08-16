@@ -3,7 +3,7 @@
 
 /**
  * print_python_bytes - Prints bytes information
- * task 103th
+ * 
  * @p: Python Object
  * Return: no return
  */
